@@ -1,3 +1,3 @@
-# Feedback
+# SGPModpacks-Feedback
 
-SGPModpacks Feedback Tracker
+SGPModpacks Official Feedback Tracker
