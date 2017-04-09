@@ -1,0 +1,22 @@
+# Ignore all files
+
+/*
+
+# Minecraft
+
+!/config
+!/mods
+!/resources
+!/scripts
+
+# Git
+
+!.gitignore
+!LICENSE
+!README.md
+
+# Override(s)
+
+/config/JEI/worldSettings.cfg
+/config/mputils/changelog.txt
+/config/chiselsandbits_clipboard.cfg
